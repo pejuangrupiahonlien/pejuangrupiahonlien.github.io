@@ -4,7 +4,7 @@ title: "pejuang rupiah"
 description: "pejuang rupiah berita blogger tentang kumpulan berbagai informasi terbaru dan berita onlien berbagai sumber."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/postkomik.jpg'
-baseurl: ''
+baseurl: 'https://pejuangrupiahonlien.github.io'
 google_analytics: 'UA-46278016-1'
 disqus: 'postkomik-github-1'
 
