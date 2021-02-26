@@ -5,7 +5,7 @@ title: "Apakah Ada Pengisi Daya Surya Tahan Air?
 author: postkomik
 categories: [ Pengetahuan ]
 image: https://cdn.pixabay.com/photo/2021/02/17/08/42/beach-6023544_960_720.jpg
-beforetoc: "Banyak orang yang menggunakan pengisi daya surya ingin tahu apakah ada pengisi daya surya tahan air yang tersedia. Sebagian besar orang yang suka menggunakan pengisi daya surya saat berada di pantai takut percikan air di sekitarnya akan merusak pengisi daya. Pengisi daya surya sangat tahan lama dan sebagian besar dapat menahan percikan normal yang terjadi di pantai.
+beforetoc: "Banyak orang yang menggunakan pengisi daya surya ingin tahu apakah ada pengisi daya surya tahan air yang tersedia. Sebagian besar orang yang suka menggunakan pengisi daya surya saat berada di pantai .
 "
 toc: true
 ---
