@@ -4,7 +4,7 @@ title: Beginilah Kehidupan anggota Intelijen BIN di Isekai
 author: postkomik
 categories: Intelijen BIN
 tags: Intelijen BIN
-image: https://lh3.googleusercontent.com/hyrteq0UQ945nM4zjC-v-_aZDAmlCUbRV7nKWO_Kz1o3LQc2p6zCfWplkFHI45v8Ms1ea0TSKdK9PQvaHXzDrZ10fE-v0SHggp3PoS3xUFbv5pkUnhchmvdZ-JfIYncBYg=w1280
+image: https://cdn.pixabay.com/photo/2016/03/31/19/12/agent-1294795_960_720.png
 beforetoc: Ini kisah hidup Hikiga Nacayo saat melintasi dunia isekai. Disana
   hidup di dalam negri yang mana masih banyak kerajaan untuk memimpin negara
   nya. Hikiga tinggal di kerajaan kingdom serpand dia sebagai karakter yang
