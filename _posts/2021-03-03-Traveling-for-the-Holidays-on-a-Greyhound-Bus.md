@@ -5,8 +5,13 @@ author: postkomik
 categories: Travel
 tags: Travel
 image: https://cdn.pixabay.com/photo/2016/10/10/14/44/train-1728537_960_720.jpg
-beforetoc: Greyhound is a bus line service that takes people all over the United States with more than 2,000 bus terminals. This is a great option for those that want to travel for the holidays and not drive there themselves. You will find the lines at the Greyhound terminal to be less hectic than at the airport and you can simply get into your seat and relax for the trip.
+beforetoc: Greyhound is a bus line service that takes people all over the United
+  States with more than 2,000 bus terminals. This is a great option for those
+  that want to travel for the holidays and not drive there themselves. You will
+  find the lines at the Greyhound terminal to be less hectic than at the airport
+  and you can simply get into your seat and relax for the trip.
 toc: true
+date: 2021-03-05T19:03:49.564Z
 ---
 
 
