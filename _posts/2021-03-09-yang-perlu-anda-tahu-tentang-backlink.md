@@ -4,7 +4,7 @@ title: Yang perlu anda tahu tentang backlink
 author: postkomik
 categories: backlink
 tags: backlink
-image: https://github.com/pejuangrupiahonlien/pejuangrupiahonlien.github.io/blob/main/assets/images/10.jpg?raw=true
+image: https://cdn.pixabay.com/photo/2016/10/10/14/44/train-1728537_960_720.jpg
 beforetoc: Apakah backlink penting bagi sebuah blog? Apakah ada efeknya? Lalu apakah ada perbedaan antara blog yang memiliki backlink dengan yang tidak memilikinya.
 date: 2021-03-09T13:21:51.182Z
 ---
